@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="AIzenHi · 用 AI 把知识盘成能玩的网页" src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AIzenHi/AIzenHi@main/assets/banner-dark.svg">
+  <img alt="AIzenHi · 用 AI 把知识盘成能玩的网页" src="https://cdn.jsdelivr.net/gh/AIzenHi/AIzenHi@main/assets/banner-light.svg" width="100%">
 </picture>
 
 ## 你好，我是 AIzenHi 👋
@@ -32,6 +32,6 @@
 ---
 
 <p align="center">
-  <img src="assets/seal.svg" alt="知" width="56" height="56">
+  <img src="https://cdn.jsdelivr.net/gh/AIzenHi/AIzenHi@main/assets/seal.svg" alt="知" width="56" height="56">
 </p>
 <p align="center"><i>知之为知之，不知为不知，是知也。</i></p>
